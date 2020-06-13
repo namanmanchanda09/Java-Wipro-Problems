@@ -1,4 +1,4 @@
-# Java-Wipro-Problems
+# Java Wipro Problems
 
 ## Assignment 1
 1. [Sort the first half of array in increasing and second haf in decreasing order](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment2/Task2.java)

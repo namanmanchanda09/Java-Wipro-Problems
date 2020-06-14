@@ -16,3 +16,15 @@
 8. [Find the even and odd digits' sum](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment3/Task8.java)
 9. [Check if a number is palindrome](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment3/Task9.java)
 10. [Check if a given number can be rearranged to form a palindrome](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment3/Task10.java)
+
+## Assignment 3
+1. [Nth fibonacci number]
+2. [Generate a PIN using three numbers]
+3. [Return second word in uppercase]
+4. [Check if the string is palindrome]
+5. [Weight of the string]
+6. [Most frequent digit among the digits of the numbers]
+7. [Find the string code]
+8. [Same as 4th]
+9. [Same as 5th]
+10. [Same as 6th]

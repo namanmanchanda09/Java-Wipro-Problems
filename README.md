@@ -18,13 +18,13 @@
 10. [Check if a given number can be rearranged to form a palindrome](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment3/Task10.java)
 
 ## Assignment 3
-1. [Nth fibonacci number]
-2. [Generate a PIN using three numbers]
-3. [Return second word in uppercase]
-4. [Check if the string is palindrome]
-5. [Weight of the string]
-6. [Most frequent digit among the digits of the numbers]
-7. [Find the string code]
-8. [Same as 4th]
-9. [Same as 5th]
-10. [Same as 6th]
+1. [Nth fibonacci number](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task1.java)
+2. [Generate a PIN using three numbers](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task2.java)
+3. [Return second word in uppercase](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task3.java)
+4. [Check if the string is palindrome](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task4.java)
+5. [Weight of the string](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task5.java)
+6. [Most frequent digit among the digits of the numbers](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task6.java)
+7. [Find the string code](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task7.java)
+8. [Same as 4th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task4.java)
+9. [Same as 5th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task5.java)
+10. [Same as 6th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task6.java)

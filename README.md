@@ -30,5 +30,7 @@
 10. [Same as 6th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task6.java)
 
 ## Assignment 4
-1. [Count the substrings of length K with K distinct characters]()
+1. [Count the substrings of length K with K distinct characters](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment5/Task1.java)
+2. [Replace every element of the array with sum of elements on the right side](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment5/Task2.java)
+3. [Check if sum of any subarray is palindrome or not](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment5/Task3.java)
 

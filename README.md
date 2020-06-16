@@ -28,3 +28,7 @@
 8. [Same as 4th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task4.java)
 9. [Same as 5th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task5.java)
 10. [Same as 6th](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment4/Task6.java)
+
+## Assignment 4
+1. [Count the substrings of length K with K distinct characters]()
+

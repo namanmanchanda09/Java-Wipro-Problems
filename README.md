@@ -1,7 +1,7 @@
 # Java Wipro Problems
 
 ## Assignment 1
-1. [Sort the first half of array in increasing and second haf in decreasing order](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment2/Task2.java)
+1. [Sort the first half of array in increasing and second half in decreasing order](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment2/Task2.java)
 2. [Convert the decimal number into binary and count the number of 1s in the binary form](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment2/Task3.java)
 3. [Find factors of a number](https://github.com/namanmanchanda09/Java-Wipro-Problems/blob/master/Assignment2/Task4.java)
 
